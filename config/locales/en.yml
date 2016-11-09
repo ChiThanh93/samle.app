@@ -40,6 +40,9 @@ en:
     new :
       Sign up : "Sign up"
       This will be a signup page for new users : "This will be a signup page for new users"
+      Welcome to the Sample App! : "Welcome to the Sample App!"
+      Confirmation : "Confirmation"
+      Create my account : "Create my account"
   layouts:
     header:
       sample app: "sample app"
@@ -54,3 +57,7 @@ en:
       About : "About"
       Contact : "Contact"
       News : "News"
+  shared:
+    error_messages:
+      The form contains : "The form contains"
+      error : "error"
